@@ -55,7 +55,7 @@ The following services are critical to basic user functionality:
 * rule-service - provides rules
 * scheduler-service - provides the ability to schedule services.
 
-If you do not deploy all of these services, the web ui will not be able to load since it ways to responses from all of these services.
+If you do not deploy all of these services, the web ui will not be able to load since it waits to responses from all of these services.
 
 ### Docker
 
